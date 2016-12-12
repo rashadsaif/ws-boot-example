@@ -5,7 +5,7 @@ import javax.jws.WebService;
 import org.springframework.stereotype.Service;
 
 @Service
-@WebService(endpointInterface = "com.adenuniv.ws.WsService")
+@WebService(endpointInterface = "ws.example.ws.WsService")
 public class WsServiceImpl implements WsService{
 
 	@Override
