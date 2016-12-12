@@ -1,4 +1,4 @@
-package com.adenuniv;
+package ws.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,7 +11,7 @@ import ws.example.WsExampleApplication;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = WsExampleApplication.class)
 @WebAppConfiguration
-public class AdenUnivApplicationTests {
+public class WsExampleTests {
 
 	@Test
 	public void contextLoads() {
