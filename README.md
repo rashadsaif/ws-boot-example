@@ -1,2 +1,2 @@
-# aden-univ
-Spring boot web api
+# ws-boot-example
+Spring boot application expose  rest and soap services
